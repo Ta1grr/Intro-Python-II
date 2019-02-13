@@ -50,4 +50,4 @@ room['treasure'].s_to = room['narrow']
 #
 # If the user enters "q", quit the game.
 
-while not user == "q"
+while not user == 'q'
